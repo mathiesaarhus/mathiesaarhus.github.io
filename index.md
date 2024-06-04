@@ -15,20 +15,3 @@ My research investigates the relationship between literature and labor. Specific
 ## Publications
 
 https://portal.findresearcher.sdu.dk/da/persons/mathies/publications/
-d**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
