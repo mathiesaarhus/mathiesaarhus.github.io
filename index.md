@@ -6,22 +6,16 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a researcher in the humanities working on an EU funded project at University of Gothenburg.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research investigates the relationship between literature and labor. Specifically, I am interested in the cultural significance of issues like social class, unemployment, precarity and automation and its affilliations and disconnections with literature. My work has appeared in journals like Textual Practice, ASAP journal, symplokē, Contemporary Literature and in several anthologies. I am currently writing a book on the literary history of unemployment since 1930.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
+https://portal.findresearcher.sdu.dk/da/persons/mathies/publications/
+d**.
 
 Here is a table
 
@@ -38,8 +32,3 @@ Here is a horizontal rule
 Here is a blockquote
 
 > To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
