@@ -14,9 +14,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
+ - name: "Publications"
+   link: "publications"
+ - name: "CV"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+   name: "Code"
+   link: https://github.com/mathiesaarhus/
+ - name: "About"
+   link: "/researcher/"
