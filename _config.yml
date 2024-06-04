@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Mathies G. Aarhus
+url: "https://mathiesaarhus.github.io/"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,9 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
