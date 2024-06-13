@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="aarhus1672seqn}.JPG">
+<img class="profile-picture" src="sherlock.JPG">
 
 Hi! I am a literary scholar and digital humanist working as a [Marie Curie postdoc](https://marie-sklodowska-curie-actions.ec.europa.eu/) at University of Gothenburg.
 
