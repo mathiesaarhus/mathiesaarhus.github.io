@@ -136,5 +136,19 @@ hr {
 	}
 }
 
+.social-links {
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    margin-right: 10px;
+    color: #333; /* Change icon color */
+    font-size: 24px; /* Change icon size */
+  }
+  
+  .social-links a:hover {
+    color: #1DA1F2; /* Twitter blue for hover effect, adjust for LinkedIn as needed */
+  }
+
 @import "typography";
 @import "tables";

@@ -22,6 +22,12 @@ nav:
    link: "CV.pdf"
  - name: "Code"
    link: "https://mathiesaarhus.github.io/"
-  - name: "Contact"
+ - name: "Contact"
+   link: "mailto:mathies@sdu.dk" 
+ - name: "CV"
+   link: "CV.pdf"
+ - name: "Code"
+   link: "https://mathiesaarhus.github.io/"
+ - name: "Contact"
    link: "mailto:mathies@sdu.dk" 
 
