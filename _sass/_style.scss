@@ -9,13 +9,9 @@ html {
     margin: 0;
     padding: 0;
 }
-.profile-picture {
-    border: 5px solid #333; /* Dark grey border */
-    padding: 10px; /* Space around the photo to act as part of the frame */
-    display: inline-block; /* Ensures padding and border are applied correctly */
-}body {
+body {
     margin: 0;
-    font-family: "Crimson Pro", sans-serif; /* Change the font family to Crimson Pro */
+    font-family: "Inconsolata";
     height: 100%;
 }
 a {
@@ -35,30 +31,6 @@ hr {
 /*
  * Navbar
  */
-
-.nav-bar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333; /* Dark background */
-}
-
-.nav-bar li {
-    float: left;
-}
-
-.nav-bar li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-.nav-bar li a:hover {
-    background-color: #111; /* Slightly lighter dark shade on hover */
-}
 
 #author-name {
     font-size: 30px;
@@ -122,7 +94,7 @@ hr {
     .container {
         max-width: 83%;
     }
-    .nav-bar-ul {
+    .navbar-ul {
         margin-top: 5px;
     }
 }
@@ -154,20 +126,6 @@ hr {
 		margin: 0;
 	}
 }
-
-.social-links {
-    margin-top: 20px;
-  }
-  
-  .social-links a {
-    margin-right: 10px;
-    color: #333; /* Change icon color */
-    font-size: 24px; /* Change icon size */
-  }
-  
-  .social-links a:hover {
-    color: #1DA1F2; /* Twitter blue for hover effect, adjust for LinkedIn as needed */
-  }
 
 @import "typography";
 @import "tables";
